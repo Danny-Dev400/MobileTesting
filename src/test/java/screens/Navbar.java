@@ -1,9 +1,9 @@
 package screens;
 
 import baseTest.BaseScreen;
-import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
+import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 
 public class Navbar extends BaseScreen {
@@ -17,21 +17,25 @@ public class Navbar extends BaseScreen {
         super(driver);
     }
 
+    @Step("Go To Home Screen")
     public HomeScreen goToHomeScreen(){
         waitForDisplayAnElement(homeButton,20).clickE();
         return new HomeScreen(driver);
     }
 
+    @Step("Go To Search Screen")
     public SearchScreen goToSearchScreen(){
         waitForDisplayAnElement(searchButton,20).clickE();
         return new SearchScreen(driver);
     }
 
+    @Step("Go To Video Screen")
     public VideoScreen goToVideoScreen(){
         waitForDisplayAnElement(videButton,20).clickE();
         return new VideoScreen(driver);
     }
 
+    @Step("Go To Profile Screen")
     public ProfileScreen goToProfileScreen(){
         waitForDisplayAnElement(profileButton,20).clickE();
         return new ProfileScreen(driver);

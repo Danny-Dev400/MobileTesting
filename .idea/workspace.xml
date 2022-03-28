@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e746336-ad64-4036-a3fe-dededdae8882" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3bf1f669656638ce1b32d95d4652d66c77066594" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd5fb72129072c92ef808be803b836d971c3d70d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/216c477213b6ba41704992447cd8abf0882bb0e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27ca2d91372ba630060b3da573c2aa56a55e9ec1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c407e8d5239ee7ea027a2bbaff48744abc85d25c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecd9059acacdda8ac121ea07f289374821fdf502" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/ActorsScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/ActorsScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/HomeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/HomeScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/LoginScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/LoginScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/Modals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/Modals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/MovieDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/MovieDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/Navbar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/Navbar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/ProfileScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/ProfileScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/RatingHistoryScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/RatingHistoryScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screens/SearchScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/SearchScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

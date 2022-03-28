@@ -1,10 +1,10 @@
 package screens;
 
 import baseTest.BaseScreen;
-import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.By;
+import org.pmw.tinylog.Logger;
 
 import java.util.List;
 
@@ -21,12 +21,12 @@ public class ProfileScreen extends BaseScreen {
     public boolean checkIfAMovieIsInTheWatchlist(){
         String result = "";
         List<MobileElement> results = waitForDisplayElements(userWatchList,30).getActualMultipleMobileElemets();
+        Logger.info("Getting the movies in the watch list");
         for (MobileElement item : results) {
             result += setActualMobileElement(item).getTextE();
             result += " ";
         }
-        System.out.println(result);
-
+        Logger.info("Verifying if the watchlist contains the movie");
         return result.contains(MovieDetails.actualMovieSelected);
     }
 
