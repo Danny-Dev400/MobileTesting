@@ -1,0 +1,9 @@
+{
+  "deviceName": "sdk_gphone_x86",
+  "udid": "emulator-5554",
+  "platformVersion": "11.0",
+  "appPackage": "com.imdb.mobile",
+  "appActivity": "com.imdb.mobile.HomeActivity",
+  "platformName": "Android",
+  "newCommandTimeout": "60"
+}
