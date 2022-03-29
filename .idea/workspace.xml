@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e746336-ad64-4036-a3fe-dededdae8882" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/216c477213b6ba41704992447cd8abf0882bb0e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27ca2d91372ba630060b3da573c2aa56a55e9ec1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c407e8d5239ee7ea027a2bbaff48744abc85d25c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecd9059acacdda8ac121ea07f289374821fdf502" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/screens/ActorsScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/ActorsScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/screens/HomeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/HomeScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/screens/LoginScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/LoginScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/screens/Modals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/Modals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/screens/MovieDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/MovieDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/screens/Navbar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/Navbar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/screens/ProfileScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/ProfileScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/screens/RatingHistoryScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/RatingHistoryScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/screens/SearchScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screens/SearchScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +60,7 @@
       <recent name="C:\Users\dasalazar\IdeaProjects\MobileTesting\src\test\resources\desiredCapabilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.IMDBTests">
+  <component name="RunManager" selected="TestNG.IMDBTests.addAMovieInTheWatchListAndVerify">
     <configuration name="IMDBTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MobileTesting" />
       <extension name="coverage">
@@ -91,7 +78,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IMDBTests.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="IMDBTests.addAMovieInTheWatchListAndVerify" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MobileTesting" />
       <extension name="coverage">
         <pattern>
@@ -101,7 +88,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.IMDBTests" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="METHOD_NAME" value="addAMovieInTheWatchListAndVerify" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -109,7 +96,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IMDBTests.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="IMDBTests.checkAMovieInTheActorTimeLine" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MobileTesting" />
       <extension name="coverage">
         <pattern>
@@ -119,7 +106,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.IMDBTests" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="METHOD_NAME" value="checkAMovieInTheActorTimeLine" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -127,7 +114,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IMDBTests.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="IMDBTests.rateAMovieAndVerify" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MobileTesting" />
       <extension name="coverage">
         <pattern>
@@ -137,7 +124,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.IMDBTests" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="METHOD_NAME" value="rateAMovieAndVerify" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -145,7 +132,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IMDBTests.test4" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="IMDBTests.searchAMovieAndCheckTheOverviewed" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MobileTesting" />
       <extension name="coverage">
         <pattern>
@@ -155,7 +142,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.IMDBTests" />
-      <option name="METHOD_NAME" value="test4" />
+      <option name="METHOD_NAME" value="searchAMovieAndCheckTheOverviewed" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -165,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.IMDBTests.addAMovieInTheWatchListAndVerify" />
+        <item itemvalue="TestNG.IMDBTests.searchAMovieAndCheckTheOverviewed" />
+        <item itemvalue="TestNG.IMDBTests.rateAMovieAndVerify" />
+        <item itemvalue="TestNG.IMDBTests.checkAMovieInTheActorTimeLine" />
         <item itemvalue="TestNG.IMDBTests" />
-        <item itemvalue="TestNG.IMDBTests.test4" />
-        <item itemvalue="TestNG.IMDBTests.test3" />
-        <item itemvalue="TestNG.IMDBTests.test2" />
-        <item itemvalue="TestNG.IMDBTests.test1" />
       </list>
     </recent_temporary>
   </component>
